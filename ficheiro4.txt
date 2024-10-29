@@ -1,0 +1,1 @@
+Este é a ficha 4 de teste de commit no git bash
