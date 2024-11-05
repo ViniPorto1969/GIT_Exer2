@@ -2,3 +2,6 @@ Este é um exemplo de um ficheiro de texto..
 
 
 teste de alterações!!
+
+
+ALTERAÇÕES EFETUADAS NO BRANCH NOVAFEATURE
