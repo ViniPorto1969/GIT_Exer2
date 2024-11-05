@@ -1,4 +1,4 @@
-Este é um exemplo de um ficheiro de texto..
+Este é um exemplo de um ficheiro de texto.. 
 
 
-Alterações no ficheiro!!
+teste de alterações!!
